@@ -14043,6 +14043,9 @@
   "pydevd-odoo": [
     "setuptools"
   ],
+  "pydevd-pycharm": [
+    "setuptools"
+  ],
   "pydevtool": [
     "setuptools"
   ],
